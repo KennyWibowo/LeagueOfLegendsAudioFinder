@@ -13,7 +13,8 @@ Then, execute the program.
 
 	java LoLAudioFinder [Champion Name] [Path to LoL]
 
-	Example:
+Example:
+
 	java LoLAudioFinder LeeSin C:\Games\Riot Games\
 
 Don't worry about the spaces existing within your path, it will automagically work.
